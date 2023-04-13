@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:-1 group-title="CINE Y SERIES",HBO | 1 7388
+http://131.196.194.2:8000/play/a09m
+#EXTINF:-1 group-title="CINE Y SERIES",CINEMAX | 1 7036
+http://131.196.194.2:8000/play/a09o
+#EXTINF:-1 group-title="VARIADO",SONY | 1 7745
+http://131.196.194.2:8000/play/a09p
+#EXTINF:-1 group-title="CINE Y SERIES" tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0pp.png",AXN | 1 6825
+http://131.196.194.2:8000/play/a09q
+#EXTINF:-1 group-title="CINE Y SERIES",SPACE | 1 7762
+http://131.196.194.2:8000/play/a09r
+#EXTINF:-1 group-title="CINE Y SERIES",FX | 1 7345
+http://131.196.194.2:8000/play/a09s
+#EXTINF:-1 group-title="CINE Y SERIES",CLARO CINEMA | 1 7050
+http://131.196.194.2:8000/play/a09z
+#EXTINF:-1 group-title="INFANTIL",NICK JUNIOR | 1 7612
+http://131.196.194.2:8000/play/a0a0
+#EXTINF:-1 group-title="CULTURAL",DISCOVERY TURBO | 1 7155
+http://131.196.194.2:8000/play/a0a1
+#EXTINF:-1 group-title="DEPORTES",ESPN 3 | 1 7254
+http://131.196.194.2:8000/play/a0a2
+#EXTINF:-1 group-title="VARIADO",LA TELE | 1 7516
+http://131.196.194.2:8000/play/a0a4
+#EXTINF:-1 group-title="DEPORTES",ESPN CO | 1 7271
+http://131.196.194.2:8000/play/a0bi
+#EXTINF:-1 group-title="VARIADO",RCN NOVELAS | 1 7684
+http://131.196.194.2:8000/play/a0bp
+#EXTINF:-1 group-title="CULTURAL",DISCOVERY ID | 1 7125
+http://131.196.194.2:8000/play/a0bq
+#EXTINF:-1 group-title="NOTICIAS",FRANCE 24 | 1 7329
+http://131.196.194.2:8000/play/a0br
+#EXTINF:-1 group-title="VARIADO" tvg-logo="http://190.83.119.67:8000/playlist/tvg-logo/a0oy.png",CANAL CLARO | 1 6921
+http://131.196.194.2:8000/play/a0bs
+#EXTINF:-1 group-title="CINE Y SERIES",TBS | 1 7804
+http://131.196.194.2:8000/play/a0bt
+#EXTINF:-1 group-title="DEPORTES",ESPN 4 | 1 7264
+http://131.196.194.2:8000/play/a0by
+#EXTINF:-1 group-title="INFANTIL",DISNEY CHANNEL | 1 7174
+http://131.196.194.2:8000/play/a0c8
+#EXTINF:-1 group-title="CULTURAL",DISCOVERY CHANNEL | 1 7106
+http://131.196.194.2:8000/play/a0c9
+#EXTINF:-1 group-title="CULTURAL" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fb90e5e84997d9ec15153c5670024ac5.png",ANIMAL PLANET | 1 6801
+http://131.196.194.2:8000/play/a0ca
+#EXTINF:-1 group-title="VARIADO",WARNER | 1 8042
+http://131.196.194.2:8000/play/a0cb
+#EXTINF:-1 group-title="VARIADO",E! ENTERTAIRMENT | 1 7199
+http://131.196.194.2:8000/play/a0cc
+#EXTINF:-1 group-title="DEPORTES",ESPN 2 LATIN | 1 7248
+http://131.196.194.2:8000/play/a0ce
+#EXTINF:-1 group-title="DEPORTES",ESPN | 1 7228
+http://131.196.194.2:8000/play/a0cf
+#EXTINF:-1 group-title="DEPORTES",GOLTV | 1 7368
+http://131.196.194.2:8000/play/a0cg
+#EXTINF:-1 group-title="DEPORTES",TYC SPORTS | 1 7974
+http://131.196.194.2:8000/play/a0ch
+#EXTINF:-1 group-title="VARIADO",A&E MUNDO | 1 6772
+http://131.196.194.2:8000/play/a0cj
+#EXTINF:-1 group-title="VARIADO",CANAL DE LAS ESTRELLAS | 1 6926
+http://131.196.194.2:8000/play/a0cl
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 2 | 1 7315
+http://131.196.194.2:8000/play/a0cm
+#EXTINF:-1 group-title="DEPORTES",FOX SPORTS 3 | 1 7325
+http://131.196.194.2:8000/play/a0cn
+#EXTINF:-1 group-title="VARIADO",TELEMUNDO | 1 7855
+http://131.196.194.2:8000/play/a0co
+#EXTINF:-1 group-title="INFANTIL",DISCOVERY KIDS | 1 7135
+http://131.196.194.2:8000/play/a0cq
+#EXTINF:-1 group-title="NOTICIAS",CNN EN ESPAÑOL | 1 7063
+http://131.196.194.2:8000/play/a0cr
+#EXTINF:-1 group-title="CINE Y SERIES",HBO 2 | 1 7397
+http://131.196.194.2:8000/play/a0cx
+#EXTINF:-1 group-title="CINE Y SERIES",HBO PLUS | 1 7422
+http://131.196.194.2:8000/play/a0cy
+#EXTINF:-1 group-title="CINE Y SERIES",HBO XTREME SD | 1 7433
+http://131.196.194.2:8000/play/a0cz
+#EXTINF:-1 group-title="CINE Y SERIES",HBO FAMILY | 1 7411
+http://131.196.194.2:8000/play/a0d0
+#EXTINF:-1 group-title="INFANTIL",DISNEY JUNIOR | 1 7179
+http://131.196.194.2:8000/play/a0d1
+#EXTINF:-1 group-title="CINE Y SERIES",UNIVERSAL STUDIO | 1 7787
+http://131.196.194.2:8000/play/a0d3
+#EXTINF:-1 group-title="DEPORTES",ESPN 2 | 1 7240
+http://131.196.194.2:8000/play/a0d4
+#EXTINF:-1 group-title="INFANTIL",NICK | 1 7621
+http://131.196.194.2:8000/play/a0dq
+#EXTINF:-1 group-title="CULTURAL",NAT GEO | 1 7596
+http://131.196.194.2:8000/play/a0dr
+#EXTINF:-1 group-title="CULTURAL",HISTORY | 1 7454
+http://131.196.194.2:8000/play/a0ds
+#EXTINF:-1 group-title="CINE Y SERIES",CINECANAL | 1 7028
+http://131.196.194.2:8000/play/a0dt
